@@ -1,0 +1,4 @@
+# Graph generation and CPU/tokenizer checks. Install training dependencies separately.
+slither-analyzer==0.11.6
+crytic-compile==0.4.2
+transformers==5.17.0

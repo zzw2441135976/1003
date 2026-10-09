@@ -1,0 +1,8 @@
+{
+  "name": "repairdistill-tools",
+  "private": true,
+  "description": "Solidity parser used by the rollout focus mapper",
+  "dependencies": {
+    "@solidity-parser/parser": "0.20.2"
+  }
+}

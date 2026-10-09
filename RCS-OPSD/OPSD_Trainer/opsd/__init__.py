@@ -1,0 +1,2 @@
+"""Minimal OPSD training package."""
+

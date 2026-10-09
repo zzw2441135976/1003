@@ -1,0 +1,37 @@
+# Generated training inputs and outputs
+/docs/
+/README.md
+/artifacts/
+/data/
+/dataset_root/
+/models/
+/reports/
+/repair-bench/
+/project_assets/
+**/runs/
+**/batch_runs/
+**/smoke_runs/
+**/samples/
+**/turn_selection/
+**/final_rollout/
+**/success_rollout/
+**/graph_index/
+**/causal_sites/
+# Local runtimes and credentials
+/.tools/
+node_modules/
+.venv*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+auth.json
+# Model files, archives, and logs
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.log
+*.zip
+*.tar*
